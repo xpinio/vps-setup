@@ -1,8 +1,6 @@
 VPS Server Initial Setup Script
 ===
 
- [![Download][B]][2]
-
 Description
 ---
 
